@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTK_Manager_System", "MTK_Manager_System\MTK_Manager_System.csproj", "{78AD71B4-3E08-457B-BF0A-C7D69BD67932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78AD71B4-3E08-457B-BF0A-C7D69BD67932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78AD71B4-3E08-457B-BF0A-C7D69BD67932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78AD71B4-3E08-457B-BF0A-C7D69BD67932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78AD71B4-3E08-457B-BF0A-C7D69BD67932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9576C02B-50BD-4A80-BEAF-F867B599E7AA}
+	EndGlobalSection
+EndGlobal

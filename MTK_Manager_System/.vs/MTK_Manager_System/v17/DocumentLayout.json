@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\managersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\managersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\managersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\managersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|c:\\users\\murad\\desktop\\mtk_manager_system\\mtk_manager_system\\mtk_manager_system\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\managersystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\managersystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\salary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\salary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\mtk_manager_system\\report.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD71B4-3E08-457B-BF0A-C7D69BD67932}|MTK_Manager_System\\MTK_Manager_System.csproj|solutionrelative:mtk_manager_system\\report.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerSystem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\ManagerSystem.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\ManagerSystem.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\ManagerSystem.cs [Design]",
+              "RelativeToolTip": "MTK_Manager_System\\ManagerSystem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:24:24.104Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Form1.Designer.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Form1.Designer.cs",
+              "ViewState": "AgIAAIwBAAAAAAAAAAAAAKoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:52:34.135Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignUp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\SignUp.Designer.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\SignUp.Designer.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\SignUp.Designer.cs",
+              "RelativeToolTip": "MTK_Manager_System\\SignUp.Designer.cs",
+              "ViewState": "AgIAAM0BAAAAAAAAAADwv+IBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:52:42.928Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerSystem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\ManagerSystem.Designer.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\ManagerSystem.Designer.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\ManagerSystem.Designer.cs",
+              "RelativeToolTip": "MTK_Manager_System\\ManagerSystem.Designer.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAAABUBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:52:50.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Employee.Designer.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Employee.Designer.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Employee.Designer.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Employee.Designer.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAADgv8oAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:53:02.911Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Product.Designer.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Product.Designer.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Product.Designer.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Product.Designer.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAADgv8QAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:53:13.808Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Salary.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Salary.Designer.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Salary.Designer.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Salary.Designer.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Salary.Designer.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAADgv8QAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:53:24.965Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\ManagerSystem.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\ManagerSystem.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\ManagerSystem.cs",
+              "RelativeToolTip": "MTK_Manager_System\\ManagerSystem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:28:13.252Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Form1.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Form1.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Form1.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:49:36.288Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\SignUp.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\SignUp.cs",
+              "RelativeToolTip": "MTK_Manager_System\\SignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:13:38.894Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Salary.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Salary.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Salary.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Salary.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:24:06.957Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Employee.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Employee.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Employee.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Employee.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:23:23.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Product.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Product.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Product.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Product.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:40:10.447Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Report.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Report.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Report.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Report.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:04:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Report.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Report.Designer.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Report.Designer.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Report.Designer.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Report.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:04:00.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Report.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Report.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Report.cs [Design]",
+              "RelativeToolTip": "MTK_Manager_System\\Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:03:50.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Program.cs",
+              "RelativeDocumentMoniker": "MTK_Manager_System\\Program.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\MTK_Manager_System\\MTK_Manager_System\\MTK_Manager_System\\Program.cs",
+              "RelativeToolTip": "MTK_Manager_System\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:20:34.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
