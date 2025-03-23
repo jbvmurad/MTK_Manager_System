@@ -1,3 +1,3 @@
 *.cs linguist-language=C#
 *.js linguist-language=false
-*.c# linguist-language=true
+*.C# linguist-language=true
